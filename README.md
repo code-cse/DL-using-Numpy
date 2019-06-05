@@ -4,11 +4,11 @@ This repository contains the code for different deep learning techniques using N
 
 ### Project Structure
 ```
-├── Convolution-Neural-Network-Numpy	                     # Weight used in prediction
-├── Convolution Neural-network-Numpy_Batchnorm               # Most frequent images for input data
+├── Convolution-Neural-Network-Numpy                         # CNN
+├── Convolution Neural-network-Numpy_Batchnorm               # Batchnorm CNN
 ├── Images                                                   # Input data for summary.
-├── Readme                                                   # Readme for SODWTSMFW
-├── requiremnts                                              # Requirements file for SODWTSMFW
+├── Readme                                                   # Readme 
+├── requiremnts                                              # Requirements 
 ```
 
 
