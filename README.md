@@ -6,7 +6,6 @@ This repository contains the code for different deep learning techniques using N
 ```
 ├── Convolution-Neural-Network-Numpy                         # CNN
 ├── Convolution Neural-network-Numpy_Batchnorm               # Batchnorm CNN
-├── Images                                                   # Input data for summary.
 ├── Readme                                                   # Readme 
 ├── requiremnts                                              # Requirements 
 ```
